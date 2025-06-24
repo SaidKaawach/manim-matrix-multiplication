@@ -5,12 +5,6 @@ This Google Colab notebook creates a Manim animation that visually explains how 
 
 ---
 
-### ▶️ Run in Google Colab
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SaidKaawach/manim-matrix-multiplication/blob/main/manim-matrix-multiplication.ipynb)
-
----
-
 ### 🧮 What’s Covered
 - Creating and visualising 2x2 matrices using NumPy
 - Animating matrix multiplication step-by-step with **Manim**
