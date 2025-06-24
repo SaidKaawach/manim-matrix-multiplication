@@ -7,7 +7,7 @@ This Google Colab notebook creates a Manim animation that visually explains how 
 
 ### ▶️ Run in Google Colab
 
-[![Open In Colab](https://colab.research.google.com/drive/163QxVEDv4NBt5TqhQX6ms_9Ywm_Z1v_h#scrollTo=v6hZMaPLZh6F)]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SaidKaawach/manim-matrix-multiplication/blob/main/Matrix_Multiplication_Manim.ipynb)
 
 ---
 
