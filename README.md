@@ -9,7 +9,7 @@ This Google Colab notebook creates a Manim animation that visually explains how 
 
 This animation shows step-by-step how two 2×2 matrices are multiplied. Each row and column involved in the computation is highlighted, making matrix multiplication easier to understand visually.
 
-![Matrix Multiplication Animation](assets/matrix_multiplication.gif)
+![Matrix Multiplication Animation](matrix_multiplication.gif)
 
 ---
 
